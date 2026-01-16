@@ -1,1 +1,3 @@
-# respondent-testing-e2e
+pip install -r requirements.txt
+playwright install
+pytest

@@ -1,0 +1,16 @@
+# core
+playwright==1.55.0
+pytest==8.4.2
+pytest-playwright==0.7.1
+pytest-xdist==3.8.0
+
+# отчёты
+allure-pytest==2.15.2
+pytest-html==4.1.1
+
+# конфигурация и валидация
+pydantic==2.12.5
+pydantic-settings==2.12.0
+
+# опционально
+email_validator==2.3.0
